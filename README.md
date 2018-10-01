@@ -1,3 +1,3 @@
 # PersonalVerwaltung
 
-eine Anwendung für Personalverwaltung
+Übung: eine Anwendung für Personalverwaltung
